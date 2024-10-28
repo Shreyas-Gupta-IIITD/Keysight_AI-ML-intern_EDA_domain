@@ -93,4 +93,4 @@ The model accuracy can be improved greatly by training for longer duration on a 
 
 ### Outputs for Solution 2:
 
-![Agent Playing](assets/output.png)
+![Agent Playing](assets/ouput.png)
