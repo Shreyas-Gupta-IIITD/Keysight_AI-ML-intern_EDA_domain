@@ -32,11 +32,6 @@ mark task 2 as done:
 ![Agent Playing](assets/mark_done_2.png)
 
 
-mark task 2 as done:
-
-![Agent Playing](assets/mark_done_2.png)
-
-
 view updated task list:
 
 ![Agent Playing](assets/view_task_1.png)
