@@ -34,7 +34,7 @@ mark task 2 as done:
 
 view updated task list:
 
-![Agent Playing](assets/view_task_1.png)
+![Agent Playing](assets/view_updated_task.png)
 
 
 adding new task 3:
