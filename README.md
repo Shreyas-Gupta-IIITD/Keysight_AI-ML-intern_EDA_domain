@@ -1,7 +1,7 @@
 # Keysight_AI-ML-intern_EDA_domain
 The repository contains the solution to Keysight Design question for AI/ML intern position for EDA Domain
 
-Submitted by: Shreyas Gupta
+Submitted by: Shreyas Gupta (MT23221)
 
 ## Problem Statement : 
 Build a simple command-line interface (CLI) tool for managing tasks. The tool should allow users to add, view, complete, and delete tasks. Tasks should be stored in a text file (e.g., tasks.txt) so that they persist between sessions.
@@ -92,3 +92,5 @@ Trained the model for 20 Epochs and got testing accuracy of about 52.2%
 The model accuracy can be improved greatly by training for longer duration on a  proper dateset having significantly large number of entries revenant to the expected task which the task manager will perform. 
 
 ### Outputs for Solution 2:
+
+![Agent Playing](assets/output.png)
