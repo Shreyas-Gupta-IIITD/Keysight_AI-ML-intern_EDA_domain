@@ -68,6 +68,6 @@ view task list from new session:
 
 
 ### Proposed Solution 2:
-Developed a Python script which can allow user to perform different opeartion using command line interace(CLI). All the task oopaetions are stored in text file which can be accessed even from a different session. The various possilbe opeartions inclued: add, view, complete, and delete tasks.
+Developed a Python script which can allow user to perform different opeartion using command line interace(CLI). All the task operations are stored in text file which can be accessed even from a different session. The various possilbe operations inclued: add, view, complete, and delete tasks.
 
 ### Outputs for Solution 2:
