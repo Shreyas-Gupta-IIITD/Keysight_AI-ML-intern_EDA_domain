@@ -80,11 +80,14 @@ example 2) input given by user can be ' remove "cars"' then bert model should cl
 
 In order to Fine tune BERT model, I *created a synthetic data set of 1600 entries* which will equally represent all class labels. This data was then split as 70-10-20 to perform cross validation.
 The dataset looked like following:
-IMAGE
+
+![Agent Playing](assets/data.png)
+
 
 Trained the model for 20 Epochs and got testing accuracy of about 52.2%
 
-IMAGE 
+![Agent Playing](assets/accur.png)
+ 
 
 The model accuracy can be improved greatly by training for longer duration on a  proper dateset having significantly large number of entries revenant to the expected task which the task manager will perform. 
 
