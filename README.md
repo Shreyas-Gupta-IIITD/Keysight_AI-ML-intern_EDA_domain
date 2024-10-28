@@ -8,7 +8,7 @@ Build a simple command-line interface (CLI) tool for managing tasks. The tool sh
 
 
 ### Proposed Solution 1:
-Developed a Python script which allows users to perform different operations using a command-line interface (CLI). All the task operations are stored in a text file, which can be accessed even from a different session. The various possible operations include: add, view, complete, and delete tasks
+Developed a Python script which allows users to perform different operations using a command-line interface (CLI). All the task operations are stored in a text file, which can be accessed even from a different session. The various possible operations include: add, view, complete, and delete tasks.
 
 ### CLI Outputs for Solution 1:
 
@@ -68,9 +68,9 @@ view task list from new session:
 
 
 ### Proposed Solution 2:
-The *above solution is not user friendly*, as the user needs to select specific instructions which available in the menu to use the task manager. The user can only interact with the task manager by utilising pre defined input format.
+The above solution is **not user-friendly**, as the user needs to **select specific instructions** available in the menu to use the task manager. The user can only interact with the task manager by utilizing a pre-defined input format.
 
-So tried developing a *BERT based model* which can be used for *task intent classification based on input prompt given by user*. Then using the intent prediction output perform the required operation which matches the intent.This would give user the freedom of giving input prompt in natural language instead of selecting from the given menu.
+So, I tried developing a **BERT-based model for task intent classification based on the input prompt** given by the user. Then, using the intent prediction output, it performs the required operation matching the intent. This approach would allow users to provide input prompts in natural language rather than selecting from the given menu.
 
 classes for intent classification: [add_task, list_task, complete_task, delete_task].
 
