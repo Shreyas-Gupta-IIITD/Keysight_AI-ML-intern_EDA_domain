@@ -10,5 +10,7 @@ Build a simple command-line interface (CLI) tool for managing tasks. The tool sh
 ### Proposed Solution 1:
 Developed a Python script which can allow user to perform different opeartion using command line interace(CLI). All the task oopaetions are stored in text file which can be accessed even from a different session. The various possilbe opeartions inclued: add, view, complete, and delete tasks.
 
-![Screenshot (1)](https://github.com/user-attachments/assets/9957e67c-a8a1-489b-aa00-94dfc8ebce53)
+### CLI Outputs for Solution 1:
 
+adding new task 1:
+![Agent Playing](assets/add task 1.png)
