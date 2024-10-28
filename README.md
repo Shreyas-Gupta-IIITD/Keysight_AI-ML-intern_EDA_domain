@@ -13,4 +13,4 @@ Developed a Python script which can allow user to perform different opeartion us
 ### CLI Outputs for Solution 1:
 
 adding new task 1:
-![Agent Playing](assets/add task 1.png)
+![Agent Playing](assets/add_task_1.png)
