@@ -15,3 +15,58 @@ Developed a Python script which can allow user to perform different opeartion us
 adding new task 1:
 
 ![Agent Playing](assets/add_task_1.png)
+
+
+adding new task 2:
+
+![Agent Playing](assets/add_task_2.png)
+
+
+view task list:
+
+![Agent Playing](assets/view_task.png)
+
+
+mark task 2 as done:
+
+![Agent Playing](assets/mark_done_2.png)
+
+
+mark task 2 as done:
+
+![Agent Playing](assets/mark_done_2.png)
+
+
+view updated task list:
+
+![Agent Playing](assets/view_task_1.png)
+
+
+adding new task 3:
+
+![Agent Playing](assets/add_task_3.png)
+
+
+view updated task list:
+
+![Agent Playing](assets/view_task_2.png)
+
+
+delete task 1:
+
+![Agent Playing](assets/del_task_1.png)
+
+
+view updated task list:
+
+![Agent Playing](assets/view_task_2.png)
+
+
+exit task manager:
+
+![Agent Playing](assets/exit_task.png)
+
+
+view task list from new session:
+
+![Agent Playing](assets/view_task_after_exit.png)
