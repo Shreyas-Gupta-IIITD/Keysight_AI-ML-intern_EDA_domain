@@ -44,7 +44,7 @@ adding new task 3:
 
 view updated task list:
 
-![Agent Playing](assets/view_task_2.png)
+![Agent Playing](assets/view_updated_task_1.png)
 
 
 delete task 1:
@@ -54,7 +54,7 @@ delete task 1:
 
 view updated task list:
 
-![Agent Playing](assets/view_task_2.png)
+![Agent Playing](assets/view_updated_task_2.png)
 
 
 exit task manager:
