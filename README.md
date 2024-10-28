@@ -68,6 +68,7 @@ view task list from new session:
 
 
 ### Proposed Solution 2:
-Developed a Python script which can allow user to perform different opeartion using command line interace(CLI). All the task operations are stored in text file which can be accessed even from a different session. The various possilbe operations inclued: add, view, complete, and delete tasks.
+The above solution is not user friendly, as the user needs to adhere to specific instructions in order to use the task manager.
+So tried developing a BERT based model which can be used for task intent classification based on 
 
 ### Outputs for Solution 2:
