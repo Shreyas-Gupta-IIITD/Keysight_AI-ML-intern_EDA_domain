@@ -1,5 +1,5 @@
 # Keysight_AI-ML-intern_EDA_domain
-The repository contains the solution to Keysight Design question for AI/ML intern position for EDA Domain
+The repository contains the solution to Keysight problem statement given for AI/ML intern position in EDA Domain
 
 Submitted by: Shreyas Gupta (MT23221)
 
