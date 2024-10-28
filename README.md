@@ -68,9 +68,9 @@ view task list from new session:
 
 
 ### Proposed Solution 2:
-The *above solution is not user friendly*, as the user needs to adhere to specific instructions in order to use the task manager.
+The *above solution is not user friendly*, as the user needs to select specific instructions which available in the menu to use the task manager. The user can only interact with the task manager by utilising pre defined input format.
 
-So tried developing a *BERT based model* which can be used for *task intent classification based on input prompt given by user*. Then using the intent prediction output perform the required operation which matches the intent.
+So tried developing a *BERT based model* which can be used for *task intent classification based on input prompt given by user*. Then using the intent prediction output perform the required operation which matches the intent.This would give user the freedom of giving input prompt in natural language instead of selecting from the given menu.
 
 classes for intent classification: [add_task, list_task, complete_task, delete_task].
 
