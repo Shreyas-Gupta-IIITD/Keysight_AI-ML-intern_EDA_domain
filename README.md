@@ -70,7 +70,7 @@ view task list from new session:
 ### Proposed Solution 2:
 The *above solution is not user friendly*, as the user needs to adhere to specific instructions in order to use the task manager.
 
-So tried developing a *BERT based model* which can be used for *task intent classification based on input prompt given by user*. Then using the intent prediction perform the required operation on task list 
+So tried developing a *BERT based model* which can be used for *task intent classification based on input prompt given by user*. Then using the intent prediction output perform the required operation which matches the intent.
 
 classes for intent classification: [add_task, list_task, complete_task, delete_task].
 
@@ -78,6 +78,14 @@ example 1) input given by user can be 'Add "New book"', then the bert model shou
 
 example 2) input given by user can be ' remove "cars"' then bert model should classify this as 'delete_task' and subsequently delete 'cars' from the task list.
 
-In order to Fine tune BERT model, I *created a synthetic data set of 1600 entries* which will equally represent all class labels. The dataset looked like following:
+In order to Fine tune BERT model, I *created a synthetic data set of 1600 entries* which will equally represent all class labels. This data was then split as 70-10-20 to perform cross validation.
+The dataset looked like following:
+IMAGE
+
+Trained the model for 20 Epochs and got testing accuracy of about 52.2%
+
+IMAGE 
+
+The model accuracy can be improved greatly by training for longer duration on a  proper dateset having significantly large number of entries revenant to the expected task which the task manager will perform. 
 
 ### Outputs for Solution 2:
