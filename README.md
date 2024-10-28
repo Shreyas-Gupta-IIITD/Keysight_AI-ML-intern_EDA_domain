@@ -91,6 +91,10 @@ Trained the model for 20 Epochs and got testing accuracy of about 52.2%
 
 The model accuracy can be improved greatly by training for longer duration on a  proper dateset having significantly large number of entries revenant to the expected task which the task manager will perform. 
 
+
+NOTE: This solution was only a proof of concept on how to build a BERT based model which can classify user intent based on given input prompt and then act as task manager to perform the intended tasks.
+Given proper database access and domain knowledge for task manager this model can be optimised further.
+
 ### Outputs for Solution 2:
 
 ![Agent Playing](assets/ouput.png)
